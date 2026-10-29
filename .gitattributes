@@ -1,0 +1,6 @@
+*.weights binary
+*.conv.* binary
+*.png binary
+*.PNG binary
+*.jpg binary
+*.JPG binary
